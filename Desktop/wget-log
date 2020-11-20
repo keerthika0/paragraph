@@ -1,0 +1,15 @@
+--2020-11-18 15:19:40--  https://www.google.com/search?client=ubuntu
+Resolving www.google.com (www.google.com)... 172.217.163.68, 2404:6800:4007:810::2004
+Connecting to www.google.com (www.google.com)|172.217.163.68|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.google.com/webhp?client=ubuntu [following]
+--2020-11-18 15:19:41--  https://www.google.com/webhp?client=ubuntu
+Reusing existing connection to www.google.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘search?client=ubuntu’
+
+search?client=ubuntu                    [<=>                                                               ]       0  --.-KB/s               search?client=ubuntu                    [ <=>                                                              ]  14.93K  --.-KB/s    in 0.007s  
+
+2020-11-18 15:19:41 (2.05 MB/s) - ‘search?client=ubuntu’ saved [15291]
+
